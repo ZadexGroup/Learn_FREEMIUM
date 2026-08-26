@@ -6,7 +6,7 @@ PROMPT DE EJECUCIÓN
 Para iniciar Zadex Learn NEGOTIATION utilizar:
 
 Accede al siguiente archivo, léelo completamente y ejecuta sus instrucciones:
-[URL_RAW_START_NEGOTIATION]
+https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/refs/heads/main/START/START_NEGOTIATION.md
 
 Este bloque es únicamente informativo y no forma parte de las instrucciones de ejecución de START.
 -->
@@ -19,9 +19,9 @@ Este bloque es únicamente informativo y no forma parte de las instrucciones de 
 
 Las fuentes obligatorias de Zadex Learn NEGOTIATION son:
 
-`CORE_URL = [URL_RAW_ZadexLearn_CORE.md]`
+`CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/refs/heads/main/CORE/ZadexLearn_CORE.md`
 
-`NEGOTIATION_URL = [URL_RAW_ZadexLearn_NEGOTIATION.md]`
+`NEGOTIATION_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/refs/heads/main/TOPICS/ZadexLearn_NEGOTIATION.md`
 
 START constituye la puerta de entrada a Zadex Learn NEGOTIATION.
 
