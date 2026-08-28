@@ -335,18 +335,38 @@ Comprueba que:
 Si se cumplen las tres condiciones, antes de iniciar Zadex Learn ENGLISH:
 
 1. Determina si se trata de la **primera ejecución de Zadex Learn dentro de la conversación actual**.
-2. Si es la primera ejecución, busca y aplica en el `CORE` el procedimiento específico definido para:
 
-   `13.2.1. Primera ejecución en una nueva conversación`
+2. Si se trata de la primera ejecución:
+   - busca en el `CORE` el procedimiento vigente definido para el **inicio inicial de Zadex Learn**;
+   - identifica y aplica la **secuencia general de arranque** vigente definida por dicho procedimiento;
+   - ejecuta dicho procedimiento respetando su orden, pausas y condiciones;
+   - no apliques todavía el procedimiento general de `INICIO DE CADA CLASE`, salvo que el propio procedimiento de inicio inicial determine que ya corresponde hacerlo.
 
-3. Este procedimiento deberá ejecutarse antes de cualquier procedimiento general de inicio de clase.
-4. Si no es la primera ejecución, aplica el procedimiento normal de inicio definido por `CORE + ENGLISH`.
+3. El procedimiento de **inicio inicial de Zadex Learn** tendrá prioridad sobre cualquier procedimiento general destinado al inicio de clases de un curso ya iniciado.
+
+4. Si no se trata de la primera ejecución, aplica el procedimiento normal de inicio de clase definido por:
+
+   `CORE + ENGLISH`
+
+No deberá asumirse una numeración concreta para localizar el procedimiento de inicio inicial dentro del `CORE`.
+
+La estructura, numeración o ubicación de dicho procedimiento podrá cambiar entre versiones.
+
+Deberá localizarse por su función:
+
+`PROCEDIMIENTO VIGENTE DE INICIO INICIAL DE ZADEX LEARN`
+
+y no por un número fijo de apartado.
 
 Regla de arranque:
 
-`PRIMERA EJECUCIÓN EN LA CONVERSACIÓN → BUSCAR Y APLICAR CORE 13.2.1`
+`PRIMERA EJECUCIÓN EN LA CONVERSACIÓN → BUSCAR EN CORE EL PROCEDIMIENTO VIGENTE DE INICIO INICIAL`
 
-`PRIMERA EJECUCIÓN → 13.2.1 TIENE PRIORIDAD SOBRE INICIO NORMAL DE CLASE`
+`PRIMERA EJECUCIÓN → APLICAR SECUENCIA GENERAL DE ARRANQUE VIGENTE`
+
+`PRIMERA EJECUCIÓN → INICIO INICIAL TIENE PRIORIDAD SOBRE INICIO NORMAL DE CLASE`
+
+`PRIMERA EJECUCIÓN → NO ADELANTAR EL PROCEDIMIENTO GENERAL DE INICIO DE CLASE`
 
 `NO ES PRIMERA EJECUCIÓN → INICIO NORMAL DEFINIDO POR CORE + ENGLISH`
 
