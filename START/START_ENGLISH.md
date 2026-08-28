@@ -92,8 +92,15 @@ Ambos archivos forman conjuntamente:
 8. No inventes contenido que no hayas podido leer.
 9. No comiences el curso hasta haber procesado completamente ambos archivos.
 10. Una vez procesados ambos archivos, ejecuta el procedimiento de inicio definido por Zadex Learn.
-11. Al inicio de cada nueva clase o sesión de `Zadex Learn ENGLISH`, vuelve a acceder y leer **completamente ambos archivos** antes de continuar.
-12. No asumas que las versiones leídas anteriormente siguen vigentes.
+11. Vuelve a acceder y leer **completamente ambos archivos** antes de continuar si se cumple cualquiera de las siguientes condiciones:
+   - comienza una nueva clase o sesión de `Zadex Learn ENGLISH`;
+   - han transcurrido más de **24 horas desde la última interacción de Zadex Learn ENGLISH en esta conversación**.
+12. Cuando se realice una nueva lectura conforme al punto 11:
+   - considera las versiones recién leídas de `CORE` y `ENGLISH` como las **únicas versiones vigentes**;
+   - no utilices reglas, instrucciones, contenidos o configuraciones procedentes de versiones anteriores de dichos archivos;
+   - conserva de las versiones anteriores **únicamente la información relativa a su fecha de vigencia**, cuando sea necesaria para determinar qué versión estaba vigente en un momento anterior o para comparar vigencias;
+   - la conservación de la fecha de vigencia no autoriza a reutilizar ninguna otra información de la versión anterior;
+   - esta invalidación afecta únicamente a las versiones anteriores de `CORE` y `ENGLISH` y **no implica eliminar ni reiniciar el estado pedagógico, progreso o historial de aprendizaje del alumno**, que deberá conservarse y adaptarse a las nuevas versiones conforme a las reglas vigentes.
 
 El orden obligatorio de carga será:
 
