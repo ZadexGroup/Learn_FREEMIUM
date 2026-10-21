@@ -99,8 +99,23 @@ El documento `SQL_BBAA_v002.pdf` se utiliza exclusivamente como **material de re
 
 ## 11. Integración y verificaciones
 
-- Fuentes oficiales identificadas: `ZadexLearn_CORE.md`, `ZadexLearn_CORE_KIDS.md` y `ZadexLearn_PYTHON_KIDS.md` del repositorio `ZadexGroup/Learn_FREEMIUM`.
-- Respetar el principio de separación de responsabilidades entre CORE, CORE_KIDS y MATERIA_KIDS.
-- No trasladar mecánicamente objetivos específicos de programación Python a SQL.
-- Confirmar si Zrek trabajará con consultas ejecutadas en PostgreSQL o solo revisará texto/resultados compartidos.
-- Crear o adaptar `START_SQL_KIDS.md` para cargar explícitamente CORE, CORE_KIDS, SQL_KIDS y los entornos, respetando la secuencia de inicio vigente.
+El curso SQL KIDS se integra con los siguientes componentes:
+
+- `CORE/ZadexLearn_CORE.md`: reglas generales de Zadex Learn.
+- `CORE/ZadexLearn_CORE_KIDS.md`: reglas pedagógicas para niños.
+- `TOPICS/ZadexLearn_SQL_KIDS.md`: configuración específica del curso SQL.
+- `TOPICS/SUPPORT/PostgreSQL_RELATIONS.md`: estructura y datos del entorno RELATIONS.
+- `TOPICS/SUPPORT/PostgreSQL_SAKILA.md`: estructura del entorno SAKILA.
+
+El archivo `START_SQL_KIDS.md` deberá cargar estos componentes
+respetando la secuencia de inicialización establecida por Zadex Learn.
+
+Zrek deberá:
+
+- Aplicar las reglas generales y pedagógicas de CORE y CORE_KIDS.
+- Utilizar exclusivamente los contenidos y objetivos definidos para SQL KIDS.
+- Consultar los archivos de soporte para identificar tablas, columnas y relaciones.
+- No inventar estructuras, datos ni resultados de consultas.
+- Diferenciar entre consultas ejecutadas realmente y consultas revisadas
+  mediante análisis lógico cuando no exista conexión a PostgreSQL.
+- Mantener el aprendizaje limitado a consultas SQL de lectura.
