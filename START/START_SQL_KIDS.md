@@ -42,4 +42,4 @@ Los dos últimos archivos deberán publicarse en una ubicación accesible y sust
 
 ## 5. Estado de publicación
 
-Este START queda **preparado, pero no operativo** hasta publicar los tres MD nuevos y completar `RELATIONS_URL` y `SAKILA_URL`.
+Este START queda **preparado** y preparado para su uso.
