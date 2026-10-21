@@ -4,11 +4,11 @@
 
 ## 1. Fuentes obligatorias
 
-- `CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/main/CORE/ZadexLearn_CORE.md`
-- `CORE_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/main/CORE/ZadexLearn_CORE_KIDS.md`
-- `SQL_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/main/TOPICS/ZadexLearn_SQL_KIDS.md`
-- `RELATIONS_URL = PENDIENTE_PUBLICACION`
-- `SAKILA_URL = PENDIENTE_PUBLICACION`
+- `CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/refs/heads/main/CORE/ZadexLearn_CORE.md`
+- `CORE_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/refs/heads/main/CORE/ZadexLearn_CORE_KIDS.md`
+- `SQL_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/refs/heads/main/TOPICS/ZadexLearn_SQL_KIDS.md`
+- `RELATIONS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/refs/heads/main/TOPICS/SUPPORT/PostgreSQL_RELATIONS.md`
+- `SAKILA_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_FREEMIUM/refs/heads/main/TOPICS/SUPPORT/PostgreSQL_SAKILA.md`
 
 Los dos últimos archivos deberán publicarse en una ubicación accesible y sustituirse sus marcadores antes de la primera ejecución completa.
 
